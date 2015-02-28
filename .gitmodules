@@ -3,4 +3,4 @@
 	url = https://github.com/apache/spark.git
 [submodule "apache/cassandra"]
 	path = apache/cassandra
-	url = git://git.apache.org/cassandra.git
+	url = https://github.com/apache/cassandra.git
